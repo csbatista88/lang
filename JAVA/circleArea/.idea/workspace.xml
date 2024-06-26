@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="d68176f9-e914-4576-9e4b-e6666ed57eb5" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../microservices/src/main/java/info/christianbatista/controllers/PersonController.java" beforeDir="false" afterPath="$PROJECT_DIR$/../microservices/src/main/java/info/christianbatista/controllers/PersonController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../microservices/src/main/java/info/christianbatista/services/PersonServices.java" beforeDir="false" afterPath="$PROJECT_DIR$/../microservices/src/main/java/info/christianbatista/services/PersonServices.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../microservices/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/../microservices/src/main/resources/application.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../microservices/target/classes/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/../microservices/target/classes/application.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../microservices/target/classes/info/christianbatista/controllers/PersonController.class" beforeDir="false" afterPath="$PROJECT_DIR$/../microservices/target/classes/info/christianbatista/controllers/PersonController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../microservices/target/classes/info/christianbatista/services/PersonServices.class" beforeDir="false" afterPath="$PROJECT_DIR$/../microservices/target/classes/info/christianbatista/services/PersonServices.class" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 6
+}]]></component>
+  <component name="ProjectId" id="2eh17Ev0H44I0iYs13EN3IJrbTI" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "/Users/christian/lang/JAVA/circleArea"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d68176f9-e914-4576-9e4b-e6666ed57eb5" name="Changes" comment="" />
+      <created>1712341830635</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1712341830635</updated>
+    </task>
+    <servers />
+  </component>
+</project>
